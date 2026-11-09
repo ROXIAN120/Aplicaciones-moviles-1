@@ -1,6 +1,5 @@
 import 'package:conecta_cruz/main.dart';
 import 'package:conecta_cruz/models/negocio.dart';
-import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {
