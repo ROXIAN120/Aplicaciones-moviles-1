@@ -49,3 +49,14 @@ app.*.map.json
 
 # Widget Preview related
 .widget_preview/
+
+# Copias locales fuera de la entrega de Android
+/ios/
+/linux/
+/macos/
+/web/
+/windows/
+/entrega_actividad_01/*.docx
+/entrega_actividad_01/Informe_IMRyD_Framework_ConectaCruz.pdf
+/entrega_actividad_01/Presentacion_Defensa_Actividad_01_ConectaCruz.pptx
+/entrega_actividad_01/Prompt_Gemini_Defensa_ConectaCruz.txt
