@@ -16,7 +16,7 @@ class ConectaCruzApp extends StatelessWidget {
       useMaterial3: true,
       cardTheme: const CardThemeData(elevation: 2, margin: EdgeInsets.zero),
     ),
-        home: const CatalogoPage(),
+    home: const BienvenidaPage(),
   );
 }
 
@@ -55,7 +55,13 @@ class BienvenidaPage extends StatelessWidget {
               ),
               const SizedBox(height: 32),
               ElevatedButton.icon(
-                onPressed: () {},
+                onPressed: () {
+                  Navigator.of(context).push(
+                    MaterialPageRoute<void>(
+                      builder: (_) => const CatalogoPage(),
+                    ),
+                  );
+                },
                 icon: const Icon(Icons.storefront_outlined),
                 label: const Text('Ver negocios'),
                 style: ElevatedButton.styleFrom(
