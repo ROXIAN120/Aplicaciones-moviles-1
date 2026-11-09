@@ -5,7 +5,8 @@ Prototipo Flutter de un catálogo de negocios locales de Santa Cruz de la Sierra
 ## Actividad 01 · Frameworks móviles
 
 - [Informe IMRyD en PDF](entrega_actividad_01/Informe_IMRyD_ConectaCruz_Ampliado.pdf)
-- [Descargar presentación de defensa (.pptx)](https://github.com/ROXIAN120/Aplicaciones-moviles-1/raw/refs/heads/main/entrega_actividad_01/Presentacion_Defensa_ConectaCruz_Ampliada.pptx). Abre el archivo descargado en PowerPoint.
+- [Ver diapositivas de la defensa en PDF](entrega_actividad_01/Presentacion_Defensa_ConectaCruz.pdf)
+- [Descargar presentación editable (.pptx)](https://github.com/ROXIAN120/Aplicaciones-moviles-1/raw/refs/heads/main/entrega_actividad_01/Presentacion_Defensa_ConectaCruz_Ampliada.pptx)
 
 ## Evidencias de ejecución
 
