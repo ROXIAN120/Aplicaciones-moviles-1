@@ -6,16 +6,11 @@ Express GO es el caso de negocio de esta actividad. Propone pedidos de comida de
 
 - [Informe IMRyD de Express GO en PDF](entrega_actividad_01/Informe_IMRyD_ConectaCruz_Ampliado.pdf)
 - [Presentación detallada de Express GO en PDF](entrega_actividad_01/Presentacion_Defensa_ConectaCruz.pdf)
-- [Descargar presentación editable (.pptx)](https://github.com/ROXIAN120/Aplicaciones-moviles-1/raw/refs/heads/main/entrega_actividad_01/Presentacion_Defensa_ConectaCruz_Ampliada.pptx)
 
 ## Evidencias de ejecución
 
-- [Diagnóstico del entorno Flutter](evidencias_actividad_01/flutter_doctor.txt)
 - [Capturas originales de flutter doctor](evidencias_actividad_01/flutter_doctor)
-- [Bienvenida de ConectaCruz con la navegación actual](evidencias_actividad_01/bienvenida_emulador_actual.png)
-- [Catálogo abierto con «Ver negocios»](evidencias_actividad_01/catalogo_desde_bienvenida.png)
-- [Pantalla de bienvenida en el emulador](evidencias_actividad_01/bienvenida_emulador.png)
-- [Captura adicional de la bienvenida](evidencias_actividad_01/000.png)
+- [Bienvenida de ConectaCruz en el emulador Android](evidencias_actividad_01/bienvenida_emulador_actual.png)
 
 ## Código fuente
 
