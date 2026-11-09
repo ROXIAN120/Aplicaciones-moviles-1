@@ -1,0 +1,27 @@
+PROMPT PARA GEMINI
+
+Ayúdame a producir un video de defensa académica de la Actividad 01 de Aplicaciones Móviles I para la Universidad Privada Domingo Savio. El tema es «Selección de un framework móvil para ConectaCruz». El estudiante es Rodrigo Ledezma Sanchez y el docente es Jimmy Nataniel Requena Llorentty.
+
+Usa como materiales el informe Word, las nueve diapositivas de PowerPoint y, como evidencia original, bienvenida_emulador.png y flutter_doctor.txt. Si no puedes leer el PowerPoint, pide un PDF de las diapositivas o sus imágenes. Si faltan los archivos de evidencia, reserva ese segmento para insertarlos al editar.
+
+Formato del montaje final
+- Horizontal 16:9, idealmente 1080p, con duración objetivo de 4 minutos y 35 segundos. Límite estricto de 5 minutos, incluidos títulos y cierre.
+- Voz en español latinoamericano, ritmo tranquilo, frases breves y tono de exposición universitaria. Escribe la locución en primera persona para que el estudiante pueda grabarla. Usa subtítulos legibles y transiciones discretas.
+- Mantén el texto y los números de las diapositivas tal como aparecen. Presenta la captura original del emulador durante al menos 12 segundos, sin deformarla. Para flutter doctor, muestra el texto real y rotúlalo «Extracto del diagnóstico». Conserva la evidencia original sin recrear la terminal ni inventar una interacción con el botón.
+
+Orden y tiempos
+1. 00:00–00:20 · Portada. Presenta el proyecto, al estudiante y la pregunta general.
+2. 00:20–00:55 · Caso local. Explica el supuesto de un comercio que atiende por WhatsApp y redes. Menciona que ConectaCruz busca reunir catálogo, pedidos y reservas con presupuesto limitado. Evita estadísticas locales que no aparecen en el informe.
+3. 00:55–01:30 · Alternativas. Explica Flutter con Dart, React Native con JavaScript y desarrollo nativo con Kotlin para Android y Swift/SwiftUI para iOS.
+4. 01:30–02:10 · Matriz. Conserva estos pesos: costo 30 %, rendimiento 20 %, comunidad 15 %, soporte Android e iOS 20 % y curva de aprendizaje 15 %. Explica la escala de 1 a 5 y la fórmula peso × calificación ÷ 5. Resultados: Flutter 90/100, React Native 87/100 y desarrollo nativo 70/100.
+5. 02:10–02:45 · Justificación. Flutter y React Native empatan en costo. Flutter gana por tres puntos gracias al entorno y a la experiencia con Dart en la asignatura. Si React Native pasa de 3 a 5 en aprendizaje, alcanza 93/100 y cambia la elección.
+6. 02:45–03:18 · Límites. El estudio citado observó que el rendimiento varía según la tarea y la plataforma. La actividad no midió rendimiento en teléfonos físicos ni verificó iOS. Los puntajes representan una valoración para el caso.
+7. 03:18–04:05 · Evidencia. Muestra el extracto del diagnóstico con Flutter 3.47.9, Android SDK 37.0.0, licencias aceptadas y «No issues found!». Inserta la captura real de la bienvenida en el emulador Pixel 6 Pro. Señala el título, la descripción y el botón «Ver negocios». En esa captura se verificó la interfaz, con la acción del botón pendiente.
+8. 04:05–04:25 · Cierre. Recomienda continuar el prototipo en Flutter y validar el catálogo en dispositivos físicos antes de probar pedidos y reservas.
+9. 04:25–04:35 · Fuentes. Muestra la última diapositiva y remite a las referencias del informe.
+
+Entrega primero un guion técnico en tabla con tiempo, diapositiva, visual, locución literal y texto en pantalla. Revisa que la narración quepa con pausas dentro del límite. Si tu generador solo produce clips cortos, propone un clip ilustrativo opcional de 8 segundos para el contexto de comercio de barrio y deja el resto como diapositivas y capturas para montar con la narración. No intentes presentar un clip ilustrativo como una grabación real del proyecto ni generes una voz que imite al estudiante.
+
+PROMPT OPCIONAL PARA EL CLIP ILUSTRATIVO
+
+Genera un plano horizontal 16:9 de 8 segundos para introducir una exposición universitaria. En un pequeño comercio de barrio de Santa Cruz de la Sierra, Bolivia, una persona ordena productos en el mostrador y consulta un teléfono. Estética documental discreta, luz natural, cámara estable. El teléfono queda fuera de foco y no aparecen marcas, texto generado ni logotipos. Sin voz. El clip representa el escenario del proyecto y se usará como ilustración del contexto.
