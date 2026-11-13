@@ -2,6 +2,15 @@
 
 Express GO es una aplicación Flutter para descubrir pequeños negocios gastronómicos que atienden entre las 00:00 y las 06:00 en Santa Cruz de la Sierra. La Actividad 02 adapta el caso académico ConectaCruz a un catálogo nocturno con datos reales, consultas y reservas en Supabase.
 
+## Datos del proyecto
+
+- **Proyecto:** Express GO, adaptación del caso académico ConectaCruz.
+- **Rubro:** gastronomía nocturna para pequeños negocios que atienden de 00:00 a 06:00.
+- **Integrante:** Rodrigo Ledezma Sanchez.
+- **Docente:** Jimmy Nataniel Requena Llorentty.
+- **Materia:** Aplicaciones Móviles I.
+- **Ubicación:** Santa Cruz de la Sierra, Bolivia.
+
 ## Actividad 01 · Frameworks móviles
 
 - [Informe IMRyD de Express GO en PDF](entrega_actividad_01/Informe_IMRyD_ConectaCruz_Ampliado.pdf)
@@ -32,7 +41,6 @@ Esta versión reemplaza los datos locales por datos reales de Supabase e incluye
 - [Presentación de la Actividad 02](entrega_actividad_02/Presentacion_Actividad_02_Express_GO_Supabase.pptx)
 - [Presentación en PDF](entrega_actividad_02/Presentacion_Actividad_02_Express_GO_Supabase.pdf)
 - [APK ejecutable de Express GO](entrega_actividad_02/Express_GO_Actividad_02.apk)
-- [Guion para la defensa grabada](entrega_actividad_02/Guion_Video_Actividad_02_Express_GO.txt)
 
 ### Ejecución segura
 
@@ -68,6 +76,7 @@ El script `04_datos_express_go.sql` actualiza una base de la versión anterior c
 - [Consulta enviada correctamente desde la APK](evidencias_actividad_02/25_express_go_consulta_enviada.png)
 - [Reserva enviada correctamente desde la APK](evidencias_actividad_02/26_express_go_reserva_enviada.png)
 - [Filas verificadas en Supabase de producción](evidencias_actividad_02/27_supabase_filas_verificadas.png)
+- [Panel oficial de Supabase con los conteos de las tablas](evidencias_actividad_02/28_supabase_panel_tablas.png)
 - [Resultados de pruebas y verificación RLS](evidencias_actividad_02/resultado_pruebas.md)
 
 La verificación final registró 6 negocios, 12 productos, 3 consultas y 3 reservas en el proyecto de producción.
