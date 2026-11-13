@@ -36,7 +36,7 @@ Esta versión reemplaza los datos locales por datos reales de Supabase e incluye
 
 ### Ejecución segura
 
-La URL y la clave publicable se inyectan en tiempo de compilación. No se guarda ninguna clave en Git:
+La URL y la clave publicable no se escriben directamente en el código fuente: se inyectan en tiempo de compilación. La APK incorpora esa configuración pública y puede ser inspeccionada, por lo que la protección real depende de RLS y de no usar credenciales secretas:
 
 ```powershell
 flutter run --dart-define=SUPABASE_URL=https://uzgmzpesvvjdnlnwokkf.supabase.co --dart-define=SUPABASE_PUBLISHABLE_KEY=TU_CLAVE_PUBLICABLE
