@@ -65,3 +65,7 @@ app.*.map.json
 /evidencias_actividad_01/bienvenida_emulador.png
 /evidencias_actividad_01/catalogo_desde_bienvenida.png
 /evidencias_actividad_01/flutter_doctor.txt
+
+# Versión editable local del informe; el docente recibe el PDF final
+/entrega_actividad_02/Informe_Actividad_02_Express_GO_Supabase.docx
+/supabase/.temp/
